@@ -1,0 +1,5 @@
+{
+"app_type" : "javascript",
+"language" : "node",
+"build_script_path": "react-scripts build"
+}
