@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa744b04.css",
+    "main.js": "/static/js/main.a27622b8.js",
+    "static/js/453.84d06b6d.chunk.js": "/static/js/453.84d06b6d.chunk.js",
+    "static/media/kareya-saleh-tLKOj6cNwe0-unsplash.jpg": "/static/media/kareya-saleh-tLKOj6cNwe0-unsplash.7d433e42e3fea5b2209d.jpg",
+    "static/media/cabello.jpeg": "/static/media/cabello.241a2491668f89dfa960.jpeg",
+    "static/media/img.png": "/static/media/img.81394237ceb34cb527da.png",
+    "index.html": "/index.html",
+    "main.aa744b04.css.map": "/static/css/main.aa744b04.css.map",
+    "main.a27622b8.js.map": "/static/js/main.a27622b8.js.map",
+    "453.84d06b6d.chunk.js.map": "/static/js/453.84d06b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa744b04.css",
+    "static/js/main.a27622b8.js"
+  ]
+}
