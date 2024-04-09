@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Navigate, Link } from 'react-router-dom';
 import Dashboard from '../../Dashboard';
-import ListCitas from '../ListCitas';
 import CitaService from '../../services/CitaService';
 
 const AgregarCita = () => {
@@ -12,7 +11,7 @@ const AgregarCita = () => {
     const [estado, setEstado] = useState('');
     const [servicio, setServicio] = useState('');
     const [agregada, setAgregada] = useState(false);
-    const [error, setError] = useState('');
+    const [ setError] = useState('');
 
     const savedCita = (e) => {
         e.preventDefault();

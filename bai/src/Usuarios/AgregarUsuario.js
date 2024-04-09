@@ -3,7 +3,7 @@ import Dashboard from '../Dashboard';
 import ListUsuario from '../vistas/ListUsuario'; // Importa tu componente de lista de usuarios
 import UsuarioService from '../services/UsuarioService';
 import { Link, Navigate } from 'react-router-dom';
-import { error } from 'jquery';
+
 
 export const AgregarUsuario = () => {
     const [nombre, setNombre] = useState('');

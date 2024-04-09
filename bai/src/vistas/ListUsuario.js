@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import UsuarioService from '../services/UsuarioService';
-import { Link } from 'react-router-dom';
 import Dashboard from '../Dashboard';
-import AgregarUsuario from '../Usuarios/AgregarUsuario';
 
 
 const ListUsuario = () => {
